@@ -1,5 +1,6 @@
 
-  [
+{
+   "api": [
     {
       "title": "Work",
       "timeframes": {
@@ -115,4 +116,6 @@
       "img": "/images/icon-self-care.svg"
     }
   ]
+}
+  
 
